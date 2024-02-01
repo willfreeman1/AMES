@@ -6,3 +6,16 @@ commits/ames_geo_nonulls.csv
 tree_visualization_1.pdf
 tree_visualization.pdf
 commits/housing_re_latlon.csv
+~$combined_feature_importances.xlsx
+combined_feature_importances.xlsx
+dtypes_df.csv
+permuted_feature_importance.csv
+rf_feature_importance_4.csv
+rf_meanabs_shaps.csv
+rf_permuted_feature_importance.csv
+surrogate_tree
+surrogate_tree_2.pdf
+surrogate_tree.pdf
+surrogate_tree.png
+tree.dot
+XGhood_feature_importance.csv

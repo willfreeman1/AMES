@@ -20,3 +20,4 @@ surrogate_tree.png
 tree.dot
 XGhood_feature_importance.csv
 bootstrap_feature_importances.csv
+dimreduced_XGB.ipynb
